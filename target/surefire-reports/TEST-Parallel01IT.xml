@@ -66,12 +66,12 @@
   <testcase name="When User enter the first number" classname="Scenario: Adding Two Numbers" time="0.002"/>
   <testcase name="And User enter the second number" classname="Scenario: Adding Two Numbers" time="0"/>
   <testcase name="Then User add this two number" classname="Scenario: Adding Two Numbers" time="0"/>
-  <testcase name="And Print the sum" classname="Scenario: Adding Two Numbers" time="0"/>
-  <testcase name="Scenario: Adding Two Numbers" classname="Scenario: Adding Two Numbers" time="0"/>
-  <testcase name="When User enter the first number" classname="Scenario: Adding Three Numbers" time="0.001"/>
+  <testcase name="And Print the sum" classname="Scenario: Adding Two Numbers" time="0.001"/>
+  <testcase name="Scenario: Adding Two Numbers" classname="Scenario: Adding Two Numbers" time="0.001"/>
+  <testcase name="When User enter the first number" classname="Scenario: Adding Three Numbers" time="0"/>
   <testcase name="And User enter the second number" classname="Scenario: Adding Three Numbers" time="0"/>
   <testcase name="And User enter the third number" classname="Scenario: Adding Three Numbers" time="0"/>
   <testcase name="Then User add this three number" classname="Scenario: Adding Three Numbers" time="0"/>
   <testcase name="And Print the sum" classname="Scenario: Adding Three Numbers" time="0"/>
-  <testcase name="Scenario: Adding Three Numbers" classname="Scenario: Adding Three Numbers" time="0.001"/>
+  <testcase name="Scenario: Adding Three Numbers" classname="Scenario: Adding Three Numbers" time="0"/>
 </testsuite>
