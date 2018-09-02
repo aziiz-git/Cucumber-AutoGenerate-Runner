@@ -9,13 +9,13 @@ public class AddNumberStepDef
 	@Then("^User add this two number$")
 	public void user_add_this_two_number() throws Throwable 
 	{
-		sum = 1000+300;
+		sum = 100+300;
 	}
 	
 	@Then("^User add this three number$")
 	public void user_add_this_three_number() throws Throwable 
 	{
-		sum = 123+800+300;
+		sum = 123+400+900;
 	}
 	
 	@Then("^Print the sum$")

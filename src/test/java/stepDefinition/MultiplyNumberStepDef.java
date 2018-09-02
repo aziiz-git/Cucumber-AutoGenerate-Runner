@@ -28,7 +28,7 @@ public class MultiplyNumberStepDef
 	@Then("^User multiply this two number$")
 	public void user_multiply_this_two_number() throws Throwable 
 	{
-		multiply = 11*22;
+		multiply = 13*22;
 	}
 		
 	@Then("^User multiply this three number$")
