@@ -9,19 +9,19 @@ public class MultiplyNumberStepDef
 	@When("^User enter the first number$")
 	public void user_enter_the_first_number() throws Throwable 
 	{
-		System.out.println("Enter first number :"+11);
+		System.out.println("Enter first number :"+14);
 	}
 
 	@When("^User enter the second number$")
 	public void user_enter_the_second_number() throws Throwable 
 	{
-		System.out.println("Enter second number :"+22);
+		System.out.println("Enter second number :"+24);
 	}
 	
 	@When("^User enter the third number$")
 	public void user_enter_the_third_number() throws Throwable 
 	{
-		System.out.println("Enter third number :"+32);
+		System.out.println("Enter third number :"+34);
 //		throw new PendingException(); // will consider it as pending step
 	}
 	
