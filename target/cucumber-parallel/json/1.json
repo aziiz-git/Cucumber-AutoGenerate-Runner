@@ -18,7 +18,7 @@
         "steps": [
           {
             "result": {
-              "duration": 168108400,
+              "duration": 2474513760,
               "status": "passed"
             },
             "line": 7,
@@ -30,7 +30,7 @@
           },
           {
             "result": {
-              "duration": 77400,
+              "duration": 1163841,
               "status": "passed"
             },
             "line": 8,
@@ -42,7 +42,7 @@
           },
           {
             "result": {
-              "duration": 78900,
+              "duration": 89482,
               "status": "passed"
             },
             "line": 9,
@@ -54,7 +54,7 @@
           },
           {
             "result": {
-              "duration": 826300,
+              "duration": 866611,
               "status": "passed"
             },
             "line": 10,
@@ -82,7 +82,7 @@
         "steps": [
           {
             "result": {
-              "duration": 94400,
+              "duration": 107151,
               "status": "passed"
             },
             "line": 14,
@@ -94,7 +94,7 @@
           },
           {
             "result": {
-              "duration": 67500,
+              "duration": 219717,
               "status": "passed"
             },
             "line": 15,
@@ -106,7 +106,7 @@
           },
           {
             "result": {
-              "duration": 280900,
+              "duration": 258188,
               "status": "passed"
             },
             "line": 16,
@@ -118,7 +118,7 @@
           },
           {
             "result": {
-              "duration": 118100,
+              "duration": 59845,
               "status": "passed"
             },
             "line": 17,
@@ -130,7 +130,7 @@
           },
           {
             "result": {
-              "duration": 69600,
+              "duration": 200908,
               "status": "passed"
             },
             "line": 18,
@@ -153,7 +153,7 @@
     "description": "",
     "id": "adding-numbers",
     "keyword": "Feature",
-    "uri": "C:/Users/DELL/git/Cucumber-AutoGenerate-Runner/src/test/resources/features/AddNumber.feature",
+    "uri": "C:/Users/abdul.azeez.pc/git/Cucumber-AutoGenerate-Runner/src/test/resources/features/AddNumber.feature",
     "tags": [
       {
         "line": 2,

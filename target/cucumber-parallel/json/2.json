@@ -10,15 +10,15 @@
     "elements": [
       {
         "line": 6,
-        "name": "Adding Two Numbers",
+        "name": "Multiplying Two Numbers",
         "description": "",
-        "id": "adding-numbers;adding-two-numbers",
+        "id": "multiplying-numbers;multiplying-two-numbers",
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 4591400,
+              "duration": 5007880,
               "status": "passed"
             },
             "line": 7,
@@ -30,7 +30,7 @@
           },
           {
             "result": {
-              "duration": 193600,
+              "duration": 132513,
               "status": "passed"
             },
             "line": 8,
@@ -42,25 +42,25 @@
           },
           {
             "result": {
-              "duration": 35800,
+              "duration": 39896,
               "status": "passed"
             },
             "line": 9,
-            "name": "User add this two number",
+            "name": "User multiply this two number",
             "match": {
-              "location": "AddNumberStepDef.user_add_this_two_number()"
+              "location": "MultiplyNumberStepDef.user_multiply_this_two_number()"
             },
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 172600,
+              "duration": 286116,
               "status": "passed"
             },
             "line": 10,
-            "name": "Print the sum",
+            "name": "Print the multiplication",
             "match": {
-              "location": "AddNumberStepDef.print_the_sum()"
+              "location": "MultiplyNumberStepDef.print_the_mulitply()"
             },
             "keyword": "And "
           }
@@ -68,21 +68,21 @@
         "tags": [
           {
             "line": 5,
-            "name": "@AddTwo"
+            "name": "@MultiplyTwo"
           }
         ]
       },
       {
         "line": 13,
-        "name": "Adding Three Numbers",
+        "name": "Multiplying Three Numbers",
         "description": "",
-        "id": "adding-numbers;adding-three-numbers",
+        "id": "multiplying-numbers;multiplying-three-numbers",
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 97800,
+              "duration": 276141,
               "status": "passed"
             },
             "line": 14,
@@ -94,7 +94,7 @@
           },
           {
             "result": {
-              "duration": 165500,
+              "duration": 147332,
               "status": "passed"
             },
             "line": 15,
@@ -106,7 +106,7 @@
           },
           {
             "result": {
-              "duration": 197200,
+              "duration": 255339,
               "status": "passed"
             },
             "line": 16,
@@ -118,25 +118,25 @@
           },
           {
             "result": {
-              "duration": 43500,
+              "duration": 58135,
               "status": "passed"
             },
             "line": 17,
-            "name": "User add this three number",
+            "name": "User multiply this three number",
             "match": {
-              "location": "AddNumberStepDef.user_add_this_three_number()"
+              "location": "MultiplyNumberStepDef.user_multiply_this_three_number()"
             },
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 166000,
+              "duration": 260468,
               "status": "passed"
             },
             "line": 18,
-            "name": "Print the sum",
+            "name": "Print the multiplication",
             "match": {
-              "location": "AddNumberStepDef.print_the_sum()"
+              "location": "MultiplyNumberStepDef.print_the_mulitply()"
             },
             "keyword": "And "
           }
@@ -144,20 +144,20 @@
         "tags": [
           {
             "line": 12,
-            "name": "@AddThree"
+            "name": "@MultiplyThree"
           }
         ]
       }
     ],
-    "name": "Adding numbers",
+    "name": "Multiplying numbers",
     "description": "",
-    "id": "adding-numbers",
+    "id": "multiplying-numbers",
     "keyword": "Feature",
-    "uri": "C:/Users/DELL/git/Cucumber-AutoGenerate-Runner/src/test/resources/features/AddNumber.feature",
+    "uri": "C:/Users/abdul.azeez.pc/git/Cucumber-AutoGenerate-Runner/src/test/resources/features/MultiplyNumbers.feature",
     "tags": [
       {
         "line": 2,
-        "name": "@AddNumbers"
+        "name": "@MultiplyNumbers"
       }
     ]
   }
